@@ -1,4 +1,4 @@
-package com.blyang;
+package com.algorithm;
 
 public class Floyd {
 	

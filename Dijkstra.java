@@ -1,4 +1,4 @@
-package com.blyang;
+package com.algorithm;
 
 public class Dijkstra {
 	
@@ -60,8 +60,6 @@ public class Dijkstra {
 		
 		for (int i=0; i < Nodes.length; i++) 
             System.out.printf("  shortest(%c, %c)=%d\n", Nodes[node], Nodes[i], distance[i]);
-		
-		
 	}
 	
 	
